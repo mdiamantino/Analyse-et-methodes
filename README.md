@@ -1,5 +1,5 @@
 # INFO-F204 - Analyse et Méthodes
 
-Notes du cours et résumé de INFO-F204
+Notes du cours (incomplet) et résumé très condensé de INFO-F204
 
 Questions? Mark.diamantino.caribe@ulb.ac.be
